@@ -41,7 +41,12 @@ export const projects = [
     description:
       "A personal website showcasing my skills, experience, and development projects.",
     images: [""],
-    buttons: [{ text: "Front-end Repo", link: "" }],
+    buttons: [
+      {
+        text: "Front-end Repo",
+        link: "https://github.com/LimaxDevelopment/Portfolio",
+      },
+    ],
   },
   {
     title: "B2B Portal (Web)",
